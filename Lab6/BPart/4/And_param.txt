@@ -1,0 +1,9 @@
+* Microwind Version 3.5, parametric analysis of "C:\Users\Kostas\Desktop\Σχολή\7ο εξάμηνο\Ροή Η\Εισαγωγή στα VLSI\6η Εργαστηριακή ’σκηση\Β μερος\And.MSK" 
+* generated on 14/1/2022, 7:03:34 μμ
+vdd(V)   power(mWatt)
+0.800 0.009
+0.900 0.008
+1.000 0.009
+1.100 0.010
+1.200 0.011
+1.300 0.016
